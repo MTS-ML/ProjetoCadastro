@@ -1,2 +1,2 @@
 # ProjetoCadastro
-Interface de cadastro em banco de dados.
+Interface de cadastro com banco de dados.
